@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Ian Ku
-
 Software Engineer | Builder | Future Founder
 
-I thrive on solving meaningful problems through code.  
-Passionate about full-stack dev, cloud infrastructure, AI deployment, and making tech feel human.
+I build full-stack systems, cloud infrastructure, and now — agentic AIs.  
+Passionate about turning complex problems into elegant, scalable solutions.
 
 - 💻 React, Node.js, C++, Python, C#
 - ☁️ AWS (Lambda, IoT Core, CDK, EventBridge)

@@ -1,4 +1,4 @@
-# 👋 hi, I'm ian ku  
+# 👋 hi, i'm ian ku  
 Software Engineer | Builder | Future Founder
 
 I build full-stack systems, cloud infrastructure, and now — agentic AIs.  
